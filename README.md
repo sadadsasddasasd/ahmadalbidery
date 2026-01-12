@@ -13,8 +13,8 @@ I'm passionate about building web applications with modern technologies.
 - MongoDB
 
 ### 📫 Connect with Me
-- Portfolio: [Your Portfolio](https://ahmadswork.com)
-- Email: your.email@example.com
+- Portfolio: (https://ahmadswork.com)
+- Email: ahmad_ailbidery36@yahoo.com
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadalbidery&show_icons=true&theme=blue-green)
